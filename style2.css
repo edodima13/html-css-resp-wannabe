@@ -1,0 +1,13 @@
+@media screen and (max-width: 420px) {
+    #lezioni .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #steps .row{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+  }
